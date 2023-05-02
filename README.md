@@ -3,6 +3,8 @@ Hi! I’m William, based in France.
 I’m interested in software development, blockchains technologies and cybersecurity.
 But I'm also very curious about economics and any topics related to science in general.
 
+[![William's GitHub stats](https://github-readme-stats-eight-woad-93.vercel.app/api?username=Septimus4&show=reviews,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
 # Studies
 ### [Epitech](https://www.epitech.eu/en/)
 Bachelor's and master's degree in information technology
@@ -40,7 +42,8 @@ Working remotely allows me to travel a lot, I move often and are able to join co
 ### Electronics
 Building automated systems, integrated circuits, raspberry pi and arduino projects.
 
+![Top Langs](https://github-readme-stats-eight-woad-93.vercel.app/api/top-langs/?username=Septimus4&layout=compact&theme=tokyonight&custom_title=Personal%20Repositories%20)
+
 # Contacts
 You can reach me at william.leroux@indykite.com  
-ENS septimus4.eth  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/william-le-roux/)
+ENS septimus4.eth
