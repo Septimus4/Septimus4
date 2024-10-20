@@ -45,5 +45,6 @@ Building automated systems, integrated circuits, raspberry pi and arduino projec
 ![Top Langs](https://github-readme-stats-eight-woad-93.vercel.app/api/top-langs/?username=Septimus4&layout=compact&theme=tokyonight&custom_title=Personal%20Repositories%20)
 
 # Contacts
-You can reach me at william@le-roux.ovh
-ENS septimus4.eth
+You can reach me at william@le-roux.ovh  
+ENS septimus4.eth  
+https://aspecta.ai/u/Septimus4
