@@ -4,6 +4,7 @@ I’m interested in software development, blockchains technologies and cybersecu
 But I'm also very curious about economics and any topics related to science in general.
 
 [![William's GitHub stats](https://github-readme-stats-eight-woad-93.vercel.app/api?username=Septimus4&show=reviews,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Septimus4&theme=tokyonight&rank=S,SS,SSS,A,AA,AAA)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Studies
 ### [Epitech](https://www.epitech.eu/en/)
