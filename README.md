@@ -1,50 +1,58 @@
-# Welcome to my profile!
-Hi! I’m William, based in France.
-I’m interested in software development, blockchains technologies and cybersecurity.
-But I'm also very curious about economics and any topics related to science in general.
+<!-- Welcome Section -->
+<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+<p align="center">Hi, I’m William, based in France. I’m passionate about software development, blockchain technology, and cybersecurity. I'm also curious about economics and science in general.</p>
 
-[![William's GitHub stats](https://github-readme-stats-eight-woad-93.vercel.app/api?username=Septimus4&show=reviews,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Septimus4&theme=tokyonight&rank=S,SS,SSS,A,AA,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub Stats and Trophies -->
+<p align="center">
+  <a href="https://github.com/Septimus4">
+    <img src="https://github-readme-stats-eight-woad-93.vercel.app/api?username=Septimus4&show=reviews,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Septimus4">
+    <img src="https://github-profile-trophy.vercel.app/?username=Septimus4&theme=tokyonight&rank=S,SS,SSS,A,AA,AAA" alt="Trophy" />
+  </a>
+</p>
 
-# Studies
-### [Epitech](https://www.epitech.eu/en/)
-Bachelor's and master's degree in information technology
+<!-- Education Section -->
+<h2>🎓 Education</h2>
+<ul>
+  <li><strong>Bachelor's & Master's in Information Technology</strong> - <a href="https://www.epitech.eu/en/">Epitech</a></li>
+  <li><strong>Master's in Information Systems Security</strong> - <a href="https://www.utt.fr">Université de technologie de Troyes</a></li>
+</ul>
 
-## [Université de technologie de Troyes](https://www.utt.fr)
-Master's degree in Information Systems Security
+<!-- Skills Section -->
+<h2>💻 Programming Skills</h2>
+<h3>Languages</h3>
+<p>Go, C, Python, Ruby</p>
 
-# Programming
-### Languages
-- Go
-- C
-- Python
-- Ruby
+<h3>Frameworks</h3>
+<p>Django, Ruby on Rails</p>
 
-### Frameworks
-- Django
-- Ruby on rails
+<!-- Hobbies Section -->
+<h2>🏆 Hobbies</h2>
+<h3>Sports</h3>
+<ul>
+  <li>Basketball, Volleyball, Tennis, Skiing, Snowboarding</li>
+</ul>
 
-# Hobbies
-### Sports
-- Basketball
-- Volleyball
-- Tennis
-- Skiing and snowboarding
+<h3>Travel & Conferences</h3>
+<p>I love to travel and often attend global tech conferences and conventions.</p>
+<ul>
+  <li><strong>Nuit du Hack 16</strong> - Paris</li>
+  <li><strong>DEVCONNECT</strong> - Amsterdam</li>
+  <li><strong>LeHack</strong> - Paris</li>
+  <li><strong>ETHcc</strong> - Paris</li>
+  <li><strong>ETHDenver</strong> - Denver</li>
+</ul>
 
-### Travels and conventions
-Working remotely allows me to travel a lot, I move often and are able to join conferences and conventions around the world.
+<h3>Electronics</h3>
+<p>Building automated systems, integrated circuits, Raspberry Pi, and Arduino projects.</p>
 
-- Nuit du Hack 16 // Paris
-- DEVCONNECT // Amsterdam
-- LeHack // Paris
-- ETHcc // Paris
-- ETHDenver // Denver
+<!-- Languages and Contacts Section -->
+<h2>📊 Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats-eight-woad-93.vercel.app/api/top-langs/?username=Septimus4&layout=compact&theme=tokyonight&custom_title=Personal%20Repositories%20" alt="Top Languages" />
+</p>
 
-### Electronics
-Building automated systems, integrated circuits, raspberry pi and arduino projects.
-
-![Top Langs](https://github-readme-stats-eight-woad-93.vercel.app/api/top-langs/?username=Septimus4&layout=compact&theme=tokyonight&custom_title=Personal%20Repositories%20)
-
-# Contacts
-ENS septimus4.eth  
-https://aspecta.ai/u/Septimus4
+<h2>📬 Contacts</h2>
+<p>ENS: <code>septimus4.eth</code></p>
+<p>Aspecta Profile: <a href="https://aspecta.ai/u/Septimus4">aspecta.ai/u/Septimus4</a></p>
