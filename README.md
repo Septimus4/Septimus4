@@ -42,6 +42,8 @@
   <li><strong>LeHack</strong> - Paris</li>
   <li><strong>ETHcc</strong> - Paris</li>
   <li><strong>ETHDenver</strong> - Denver</li>
+  <li><strong>Edge City</strong> - Chiang Mai</li>
+  <li><strong>Devcon 2024</strong> - Bangkok</li>
 </ul>
 
 <h3>Electronics</h3>
