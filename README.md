@@ -5,7 +5,7 @@
 <!-- GitHub Stats and Trophies -->
 <p align="center">
   <a href="https://github.com/Septimus4">
-    <img src="https://github-readme-stats-william-le-rouxs-projects.vercel.app/api?username=Septimus4&show=reviews,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-git-master-william-le-rouxs-projects.vercel.app/api?username=Septimus4&show=reviews,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Septimus4">
     <img src="https://github-profile-trophy.vercel.app/?username=Septimus4&theme=tokyonight&rank=S,SS,SSS,A,AA,AAA" alt="Trophy" />
@@ -52,7 +52,7 @@
 <!-- Languages and Contacts Section -->
 <h2>📊 Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats-william-le-rouxs-projects.vercel.app/api/top-langs/?username=Septimus4&layout=compact&theme=tokyonight&custom_title=Personal%20Repositories%20" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-william-le-rouxs-projects.vercel.app/api/top-langs/?username=Septimus4&layout=compact&theme=tokyonight&custom_title=Personal%20Repositories%20" alt="Top Languages" />
 </p>
 
 <h2>📬 Contacts</h2>
