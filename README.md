@@ -57,4 +57,3 @@
 
 <h2>📬 Contacts</h2>
 <p>ENS: <code>septimus4.eth</code></p>
-<p>Aspecta Profile: <a href="https://aspecta.ai/u/Septimus4">aspecta.ai/u/Septimus4</a></p>
