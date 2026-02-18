@@ -39,11 +39,5 @@
 <h3>Electronics</h3>
 <p>Building automated systems, integrated circuits, Raspberry Pi, and Arduino projects.</p>
 
-<!-- Languages and Contacts Section -->
-<h2>📊 Top Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats-git-master-william-le-rouxs-projects.vercel.app/api/top-langs/?username=Septimus4&layout=compact&theme=tokyonight&custom_title=Personal%20Repositories%20" alt="Top Languages" />
-</p>
-
 <h2>📬 Contacts</h2>
 <p>ENS: <code>septimus4.eth</code></p>
