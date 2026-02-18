@@ -2,18 +2,6 @@
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 <p align="center">Hi, I’m William, based in France. I’m passionate about software development, blockchain technology, and cybersecurity. I'm also curious about economics and science in general.</p>
 
-<!-- GitHub Stats and Trophies -->
-<p align="center">
-  <a href="https://github.com/Septimus4">
-    <img src="https://github-readme-stats-git-master-william-le-rouxs-projects.vercel.app/api?username=Septimus4&show=reviews,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Septimus4">
-    <img src="https://github-profile-trophy.vercel.app/?username=Septimus4&theme=tokyonight&rank=S,SS,SSS,A,AA,AAA&column=5&margin-w=15&margin-h=15" alt="Trophy" />
-  </a>
-</p>
-
 <!-- Education Section -->
 <h2>🎓 Education</h2>
 <ul>
