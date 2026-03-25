@@ -7,6 +7,7 @@
 <ul>
   <li><strong>Bachelor's & Master's in Information Technology</strong> - <a href="https://www.epitech.eu/en/">Epitech</a></li>
   <li><strong>Master's in Information Systems Security</strong> - <a href="https://www.utt.fr">Université de technologie de Troyes</a></li>
+  <li><strong>Master's in Engineering and Data Science</strong> - <a href="https://openclassrooms.com/">Openclassrooms</a></li>
 </ul>
 
 <!-- Skills Section -->
@@ -21,7 +22,7 @@
 <h2>🏆 Hobbies</h2>
 <h3>Sports</h3>
 <ul>
-  <li>Basketball, Volleyball, Tennis, Skiing, Snowboarding</li>
+  <li>Basketball, Volleyball, Tennis, Skiing, Snowboarding, Scuba diving</li>
 </ul>
 
 <h3>Travel & Conferences</h3>
