@@ -40,5 +40,7 @@
 <h3>Electronics</h3>
 <p>Building automated systems, integrated circuits, Raspberry Pi, and Arduino projects.</p>
 
+[![An image of @septimus4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/septimus4)](https://holopin.io/@septimus4)
+
 <h2>📬 Contacts</h2>
 <p>ENS: <code>septimus4.eth</code></p>
