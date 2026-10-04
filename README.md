@@ -13,17 +13,10 @@
 <!-- Skills Section -->
 <h2>💻 Programming Skills</h2>
 <h3>Languages</h3>
-<p>Go, C, Python, Ruby</p>
+<p>Go, C,Rust, Python, Ruby</p>
 
 <h3>Frameworks</h3>
 <p>Django, Ruby on Rails</p>
-
-<!-- Hobbies Section -->
-<h2>🏆 Hobbies</h2>
-<h3>Sports</h3>
-<ul>
-  <li>Basketball, Volleyball, Tennis, Skiing, Snowboarding, Scuba diving</li>
-</ul>
 
 <h3>Travel & Conferences</h3>
 <p>I love to travel and often attend global tech conferences and conventions.</p>
