@@ -29,13 +29,9 @@ I build production backend systems and the AI pipelines that run on them. 6+ yea
 |---|---|---|
 | 🤖 | [**LOCALTRIAGE**](https://github.com/Septimus4/LOCALTRIAGE) | Privacy-preserving support triage on local LLMs: classification, hybrid dense + sparse retrieval with RRF, cited RAG drafts |
 | 📏 | [**RAG-Evaluation**](https://github.com/Septimus4/RAG-Evaluation) | RAG + validated NL→SQL assistant with RAGAS evaluation and Logfire tracing |
-| 🗓️ | [**AgendaFlow**](https://github.com/Septimus4/AgendaFlow) | Multilingual RAG service over Paris events: FAISS HNSW, Mistral, FastAPI |
-| 🔁 | [**MLops**](https://github.com/Septimus4/MLops) | End-to-end MLOps: MLflow, Optuna, FastAPI scoring API, Evidently monitoring, CI/CD |
-| 🔐 | [**Chronogen**](https://github.com/BoredLabsHQ/Chronogen) | Date-based wordlist generator for pentesting and QA (★ 16) |
 | ☸️ | [**timesync-operator**](https://github.com/Septimus4/timesync-operator) | Kubernetes operator + mutating webhook in Go |
-| 🧮 | [**Chaum-Pedersen-Protocol**](https://github.com/Septimus4/Chaum-Pedersen-Protocol) | Zero-knowledge proof authentication in Rust over gRPC |
+| 🔐 | [**Chronogen**](https://github.com/BoredLabsHQ/Chronogen) | Date-based wordlist generator for pentesting and QA (★ 16) |
 | 📡 | [**Planar**](https://github.com/Septimus4/Planar) | Tripod LiDAR scanner that exports CAD-ready floor plans (Raspberry Pi, 195 tests) |
-| 🏠 | [**homelab**](https://github.com/Septimus4/homelab) | GitOps Docker stacks: Komodo, Traefik, Matrix + LiveKit |
 
 ## Stack
 
