@@ -40,15 +40,16 @@ I build production backend systems and the AI pipelines that run on them. 6+ yea
 
 ## Stack
 
-**Languages:** Go · Python · Ruby · Rust · C · SQL
-**AI / ML:** RAG · LLM orchestration · vLLM / TGI · Ollama · hybrid retrieval · fine-tuning · RAGAS
-**Backend:** Django REST · Celery · gRPC · connectrpc · Rails
-**Data:** PostgreSQL · pgvector · OpenSearch · Neo4j · CockroachDB
-**Infra:** AWS · GCP · Docker · Kubernetes · Terraform · Helm · Argo CD · GitHub Actions
+- **Languages:** Go · Python · Ruby · Rust · C · SQL
+- **AI / ML:** RAG · LLM orchestration · vLLM / TGI · Ollama · hybrid retrieval · fine-tuning · RAGAS
+- **Backend:** Django REST · Celery · gRPC · connectrpc · Rails
+- **Data:** PostgreSQL · pgvector · OpenSearch · Neo4j · CockroachDB
+- **Infra:** AWS · GCP · Docker · Kubernetes · Terraform · Helm · Argo CD · GitHub Actions
 
 ## Off the clock
 
 Security and Web3 conferences: Nuit du Hack, LeHack, EthCC, DEVCONNECT, ETHDenver, Edge City, Devcon 2024.
+
 I contribute to [Tansu](https://github.com/Consulting-Manao/tansu) (open-source governance on Stellar), and I build hardware: LiDAR, RFID, Raspberry Pi, Arduino.
 
 ## Education
