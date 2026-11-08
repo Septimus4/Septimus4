@@ -35,7 +35,6 @@ I build production backend systems and the AI pipelines that run on them. 6+ yea
 | ☸️ | [**timesync-operator**](https://github.com/Septimus4/timesync-operator) | Kubernetes operator + mutating webhook in Go |
 | 🧮 | [**Chaum-Pedersen-Protocol**](https://github.com/Septimus4/Chaum-Pedersen-Protocol) | Zero-knowledge proof authentication in Rust over gRPC |
 | 📡 | [**Planar**](https://github.com/Septimus4/Planar) | Tripod LiDAR scanner that exports CAD-ready floor plans (Raspberry Pi, 195 tests) |
-| 📟 | [**PM3-Easy-standalone**](https://github.com/Septimus4/PM3-Easy-standalone) | Portable touchscreen RFID tool built on Proxmark3 + NanoPi |
 | 🏠 | [**homelab**](https://github.com/Septimus4/homelab) | GitOps Docker stacks: Komodo, Traefik, Matrix + LiveKit |
 
 ## Stack
