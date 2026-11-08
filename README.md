@@ -20,7 +20,7 @@ I build production backend systems and the AI pipelines that run on them. 6+ yea
 
 ## Before
 
-- **IndyKite** (seed-stage, identity & authorization): Go services for a graph-based authorization engine on Neo4j with temporal policies, delegation and audit; gRPC / connectrpc APIs; a multi-tenant, multi-region GCP platform built for GDPR and SOC 2.
+- **IndyKite** (seed-stage, identity & authorization): Go services for a graph-based authorization platform on Neo4j: consent-based, time-bound data access, delegation and audit; gRPC / connectrpc APIs; a multi-tenant, multi-region GCP platform built for GDPR and SOC 2.
 - **Airbus Protect** (cybersecurity): Rails backend on *Fence*, a cyber risk platform; introduced property-based testing; DevSecOps and hardening on Red Hat and OpenShift.
 
 ## Things I've built
@@ -35,6 +35,7 @@ I build production backend systems and the AI pipelines that run on them. 6+ yea
 | ☸️ | [**timesync-operator**](https://github.com/Septimus4/timesync-operator) | Kubernetes operator + mutating webhook in Go |
 | 🧮 | [**Chaum-Pedersen-Protocol**](https://github.com/Septimus4/Chaum-Pedersen-Protocol) | Zero-knowledge proof authentication in Rust over gRPC |
 | 📡 | [**Planar**](https://github.com/Septimus4/Planar) | Tripod LiDAR scanner that exports CAD-ready floor plans (Raspberry Pi, 195 tests) |
+| 📟 | [**PM3-Easy-standalone**](https://github.com/Septimus4/PM3-Easy-standalone) | Portable touchscreen RFID tool built on Proxmark3 + NanoPi |
 | 🏠 | [**homelab**](https://github.com/Septimus4/homelab) | GitOps Docker stacks: Komodo, Traefik, Matrix + LiveKit |
 
 ## Stack
