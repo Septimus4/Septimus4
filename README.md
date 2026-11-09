@@ -12,11 +12,11 @@
   <img alt="ENS" src="https://img.shields.io/badge/ENS-septimus4.eth-5298FF?style=flat-square&logo=ethereum&logoColor=white">
 </p>
 
-I build production backend systems and the AI pipelines that run on them. 6+ years across **seed-stage startups and enterprise**: a graph-based authorization platform at IndyKite, security-critical software at Airbus, and now enterprise RAG and self-hosted LLM pipelines at Iris.ai.
+I build production backend systems and the AI pipelines that run on them. 6+ years across **seed-stage startups and enterprise**: a graph-based authorization platform at IndyKite, security-critical software at Airbus, and now document AI pipelines on self-hosted LLMs at Iris.ai.
 
 ## Now
 
-**Senior Software Engineer @ [Iris.ai](https://iris.ai)**: Python/Django services for *Axiom*, an enterprise AI knowledge platform. I work on RAG pipelines, self-hosted LLMs (vLLM, TGI), hybrid retrieval on OpenSearch + pgvector, and an end-to-end document translation platform on async Celery pipelines.
+**Senior Software Engineer @ [Iris.ai](https://iris.ai)**: Python services for *Axiom*, an enterprise AI knowledge platform. I rebuilt the document translation platform (Django, Celery, translation memory on OpenSearch, self-hosted LLMs on vLLM), redesigned the property-extraction pipeline for scale, and added OpenTelemetry and Prometheus observability.
 
 ## Before
 
@@ -36,10 +36,10 @@ I build production backend systems and the AI pipelines that run on them. 6+ yea
 ## Stack
 
 - **Languages:** Go · Python · Ruby · Rust · C · SQL
-- **AI / ML:** RAG · LLM orchestration · vLLM / TGI · Ollama · hybrid retrieval · fine-tuning · RAGAS
+- **AI / ML:** RAG · LLM orchestration · vLLM · Ollama · hybrid retrieval · fine-tuning · RAGAS
 - **Backend:** Django REST · Celery · gRPC · connectrpc · Rails
-- **Data:** PostgreSQL · pgvector · OpenSearch · Neo4j · CockroachDB
-- **Infra:** AWS · GCP · Docker · Kubernetes · Terraform · Helm · Argo CD · GitHub Actions
+- **Data:** PostgreSQL · OpenSearch · Neo4j · CockroachDB
+- **Infra:** AWS · GCP · Docker · Kubernetes · Terraform · Helm · Argo CD · GitHub Actions · OpenTelemetry · Prometheus
 
 ## Off the clock
 
